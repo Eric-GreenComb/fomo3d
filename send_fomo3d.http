@@ -1,0 +1,14 @@
+
+###health
+GET http://127.0.0.1:8080/health
+Content-Type: application/json
+
+{
+}
+
+###fomo3d get_timeleft
+GET http://127.0.0.1:8080/fomo3d/get_timeleft/0xd174192e3bc64c1f378efac09ec441c53bd1305c
+Content-Type: application/json
+
+{
+}
